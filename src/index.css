@@ -1,0 +1,12 @@
+.vh-100 {
+    background-color: #eee;
+}
+
+#app-title {
+    color: rgb(126, 243, 141);
+}
+
+#empty-form {
+    color : rgb(247, 119, 119);
+    font-style: italic;
+}
